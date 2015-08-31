@@ -1,0 +1,3 @@
+I used awk for processing in this script because I have been using it more recently and wanted to exercise my skills. I had some trouble with figuring out how to isolate the IP address and then give a count of request corresponding to each one,
+and wasn't quite able to get that to work. However, I noted that it was a relatively short list of results and that each one happened to be unique. In production, I would use this script as a start and spend more time to improve the processing of
+those results, possibly with a combination of sed and awk.

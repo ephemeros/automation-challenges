@@ -23,5 +23,5 @@ echo "There are a total of $responseNot200Count HTTP responses that are not equa
 echo "There are a total of $reportPutRequestCount HTTP PUT requests made to /dev/report/."
 
 echo "These are the PUT requests made to /dev/report by IP address:"
-echo  $reportPutRequestByIpAddress
+echo "$reportPutRequestByIpAddress"
 
